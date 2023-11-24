@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "PoppinsReg";
+  src: local("PoppinsReg"),
+   url("./fonts/Poppins/Poppins-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PoppinsSemiBold";
+  src: local("PoppinsSemiBold"),
+   url("./fonts/Poppins/Poppins-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PoppinsBold";
+  src: local("PoppinsBold"),
+   url("./fonts/Poppins/Poppins-Bold.ttf") format("truetype");
+}
+  
